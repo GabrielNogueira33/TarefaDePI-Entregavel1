@@ -1,0 +1,42 @@
+
+.card_divVo{
+
+    background-color: #d61dc7; 
+    height : 500px; 
+    width: 500px
+}
+
+.card_divElementoB{
+    
+    width : 250px; 
+    height : 50vh; 
+    background-color: rgb(0,60,255)
+
+}
+
+.card_divFilhaElementoB{
+
+    width: 75vw; 
+    height :25vh; 
+    background-color: rgb(125,80,205)
+
+}
+
+.card_divPai{
+
+    background-color: #def703 ; 
+    height: 250px; 
+    width: 250px
+
+}
+
+.card_divFilha{
+
+    color: white ; 
+    background-color:black ; 
+    font-size: 25px;font-family: Arial ;
+    font-weight: bold;
+
+
+}
+
